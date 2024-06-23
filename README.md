@@ -1,3 +1,3 @@
 # Panel Datasets
 
-Collection of synchronized multivariate time series.
+An open-soruce collection of synchronized multivariate time series.
