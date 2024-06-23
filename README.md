@@ -1,3 +1,3 @@
-# Multiple Multivariate Time Series (MMTS)
+# Panel Datasets
 
-Shared scripts for gettering and preparing signals-like datasets.
+Collection of synchronized multivariate time series.
